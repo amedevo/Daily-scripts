@@ -1,8 +1,4 @@
 /////////////////////////////////////ENG///////////////////////////////////////////////
-# Daily-scripts
-Network-Tools, Automation / Ağ-Araçları, Otomasyon
-
-
 # Network Recon Tool v1.0
 
 A professional network reconnaissance and automation script for Kali Linux environments.
