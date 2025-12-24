@@ -30,6 +30,6 @@ Kali Linux ortamları için geliştirilmiş, profesyonel bir ağ keşif ve otoma
 ## Kullanım
 Scriptin çalışması için Linux tabanlı bir sistem (Kali Linux önerilir) gereklidir.
 
-command : python3 network_recon.py
+command : python3 network_recon_tr.py
 
 !!! Bu araç yalnızca eğitim ve yetkili güvenlik testleri amacıyla geliştirilmiştir. Kullanımdan doğabilecek sorumluluklar kullanıcıya aittir.
